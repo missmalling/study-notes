@@ -1,14 +1,1 @@
-[
-  "homepage",
-  "simple-banner",
-  "templater-obsidian",
-  "obsidian-hover-editor",
-  "dataview",
-  "obsidian-image-auto-upload-plugin",
-  "better-export-pdf",
-  "obsidian-excalidraw-plugin",
-  "obsidian-outliner",
-  "obsidian-another-quick-switcher",
-  "obsidian-importer",
-  "obsidian-view-mode-by-frontmatter"
-]
+["homepage","simple-banner","templater-obsidian","obsidian-hover-editor","dataview","obsidian-image-auto-upload-plugin","better-export-pdf","obsidian-excalidraw-plugin","obsidian-outliner","obsidian-another-quick-switcher","obsidian-importer","obsidian-view-mode-by-frontmatter","obsidian-git"]
