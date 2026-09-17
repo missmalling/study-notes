@@ -1,0 +1,19 @@
+# Obsidian 本地工作区状态（每台设备不同，不纳入版本控制）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/cache
+
+# Obsidian 回收站
+.trash/
+
+# 操作系统与临时文件
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*.docx
+~$*.doc
+*.tmp
+
+# 导出/临时目录
+.export/
